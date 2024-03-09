@@ -1,0 +1,6 @@
+.represent_container{
+    width: 90%; background-color: #f9f9f9; padding: 10px; border-radius: 10px; margin: auto; margin-top: 20px; position: relative;
+}
+.close_button{
+    background-color: black; position: absolute; right: -5px; top: -5px; width: 30px; height: 30px; border-radius: 20px; display: flex; justify-content: center; align-items: center;
+}
